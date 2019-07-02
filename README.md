@@ -1,2 +1,2 @@
 # Electric-Pump
-Using the data for electric pump, deriving valuable information
+Deriving valuable information using the given data for electric pump.
